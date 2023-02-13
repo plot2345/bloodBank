@@ -1,0 +1,7 @@
+npm i --force
+npm update --force
+cd frontend
+npm i --force
+npm update --force
+cd ..
+npm run dev
